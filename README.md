@@ -109,7 +109,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   </p>
   <p>
-    <a href="https://github.com/dykkyongdo/ai-ml-football" target="_blank">
+    <a href="https://github.com/dykkyongdo/AI-ML-Football-Analysis-System" target="_blank">
       <img alt="Repo" src="https://img.shields.io/badge/Repo-ai--ml--football-181717?logo=github" />
     </a>
     <img alt="last commit" src="https://img.shields.io/github/last-commit/dykkyongdo/ai-ml-football?label=Last%20commit&style=flat" />
